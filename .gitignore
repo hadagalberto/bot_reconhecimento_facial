@@ -165,5 +165,8 @@ venv.bak/
 # mypy
 .mypy_cache/
 
+#more files
+*Thumbs.db
+*chaves.py
 
 # End of https://www.gitignore.io/api/python,pycharm
