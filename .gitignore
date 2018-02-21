@@ -168,5 +168,6 @@ venv.bak/
 #more files
 *Thumbs.db
 *chaves.py
+*bgf*
 
 # End of https://www.gitignore.io/api/python,pycharm
