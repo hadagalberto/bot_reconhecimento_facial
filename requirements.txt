@@ -1,0 +1,5 @@
+requests==2.8.1
+telepot==12.4
+numpy==1.13.1+mkl
+matplotlib==2.1.2
+Pillow==5.0.0
